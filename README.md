@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img width="540" height="1140" src="https://github.com/1Danieru/PracticeBuildAGrid/blob/master/screenshot/Screenshot.png"/>
+  <img width="360" height="760" src="https://github.com/1Danieru/PracticeBuildAGrid/blob/master/screenshot/Screenshot.png"/>
 </p>
